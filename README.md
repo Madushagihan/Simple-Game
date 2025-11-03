@@ -8,7 +8,7 @@ This project demonstrates fundamental web development concepts such as DOM manip
 ## 🚀 Live Demo
 You can play the game directly in your browser!  
 👉 [Live Demo Link](#)  
-*(Replace the link above with your GitHub Pages or deployment link once available.)*
+
 
 ---
 
