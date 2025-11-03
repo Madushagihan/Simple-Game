@@ -7,7 +7,7 @@ This project demonstrates fundamental web development concepts such as DOM manip
 
 ## 🚀 Live Demo
 You can play the game directly in your browser!  
-👉 [Live Demo Link](#)  
+👉 [https://madushagihan.github.io/Simple-Game/](#)  
 
 
 ---
